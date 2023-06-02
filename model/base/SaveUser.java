@@ -1,5 +1,5 @@
 package model.base;
 
 public interface SaveUser {
-    public void save(Persister sv);
+    public void save(model.base.Persister sv);
 }
